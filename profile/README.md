@@ -1,2 +1,2 @@
-Physical Intelligence
-From Silicon To Production
+Physical Intelligence,
+From Silicon To Production.
